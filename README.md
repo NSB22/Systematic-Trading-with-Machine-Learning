@@ -1,6 +1,5 @@
 # Systematic Trading Strategies with Machine Learning
 ### Coursework Project — Meta-Labeling for Trading Signal Filtering
-**Group 13:** Agustina Albez, Garance Danvin, Helene Rabain, Kevin Aoun and Nathan Sebbag
 
 ---
 
